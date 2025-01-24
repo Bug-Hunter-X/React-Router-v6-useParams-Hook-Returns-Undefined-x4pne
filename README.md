@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Router v6: using the `useParams` hook outside a route component. The `bug.js` file shows the incorrect usage, resulting in `undefined` parameters.  The `bugSolution.js` file provides the corrected implementation.
